@@ -1,0 +1,4 @@
+APP_NAME: 'API Mandiri'
+APP_VERSION: 'v1.0'
+LIMIT_PER_PAGE: '20'
+IP_API_ITD: 'http://10.61.3.49/sikp/api/'

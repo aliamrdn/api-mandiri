@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"api_mandiri.npls"}],"uuid":"c2a26b24fe2f4614899dcda078ae2d56"}

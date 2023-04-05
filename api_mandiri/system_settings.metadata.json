@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"api_mandiri.system_settings"}],"uuid":"561c582a82f0483d8f407d92e29724d8"}
